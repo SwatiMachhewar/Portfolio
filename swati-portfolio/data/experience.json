@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "title": "Associate",
+    "company": "Cognizant - BioMérieux Project",
+    "location": "Remote",
+    "period": "June 2024 - Present",
+    "description": "bioMérieux is a global leader in in vitro diagnostics, providing innovative solutions for healthcare and industrial sectors in over 150 countries. The Salesforce project involves implementing Field Service Lightning (FSL) to manage medical equipment servicing and Salesforce CPQ to streamline the quoting process for equipment sales.",
+    "achievements": [
+      "Configured Salesforce setup including roles, profiles, permission sets, sharing rules, objects, and relationships as per business requirements",
+      "Developed Apex classes, triggers, Lightning Web Components (LWC), and test classes with >85% code coverage",
+      "Implemented Salesforce CPQ (product bundles, pricing rules, quote templates) and Field Service Lightning (resources, territories, appointments, dispatch console)",
+      "Built Flows for automating lead assignment, service case routing, and field notifications",
+      "Performed deployments using Change Sets and handled bulk data loading with Workbench and Data Loader",
+      "Collaborated with cross-functional teams to gather requirements, resolve user issues, and deliver scalable solutions"
+    ],
+    "technologies": ["Apex", "Lightning Web Components", "Salesforce CPQ", "Field Service Lightning", "Flows", "Change Sets", "Workbench", "Data Loader"]
+  },
+  {
+    "id": 2,
+    "title": "Programmer Analyst",
+    "company": "Cognizant - BMW Project",
+    "location": "Remote",
+    "period": "April 2021 - June 2024",
+    "description": "BMW is a leading global automotive company, well known for premium cars and mobility solutions. The Salesforce project focused on streamlining customer relationship management, dealer interactions, and after-sales service processes across regions.",
+    "achievements": [
+      "Created custom objects, fields, validation rules, workflows, approval processes, and page layouts as per business requirements",
+      "Developed and enhanced Apex classes, triggers, Lightning Web Components (LWC), and test classes with >85% code coverage",
+      "Worked on Lightning Community (Experience Cloud) and implemented Flows for lead management, case routing, and approval processes",
+      "Administered Salesforce security including roles, profiles, permission sets, and sharing rules",
+      "Built custom Reports and Dashboards for sales, service, and operations teams; ensured data quality through maintenance and cleansing",
+      "Supported end users by resolving issues, conducting training, and ensuring adoption of Salesforce tools",
+      "Performed post-deployment sanity checks",
+      "Collaborated with stakeholders to gather requirements and deliver scalable solutions",
+      "Created technical documentation and adhered to Salesforce best practices"
+    ],
+    "technologies": ["Apex", "Lightning Web Components", "Sales Cloud", "Service Cloud", "Experience Cloud", "Flows", "Reports & Dashboards", "Data Quality"]
+  }
+]

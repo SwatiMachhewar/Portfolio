@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Salesforce Certified Administrator (SCA)",
+    "issuer": "Salesforce",
+    "date": "Aug 2022",
+    "credentialId": "SF-ADMIN-2022-001",
+    "description": "Certification demonstrating ability to configure and manage Salesforce applications, user management, and security settings.",
+    "skills": ["Salesforce Setup", "User Management", "Security", "Data Management"]
+  },
+  {
+    "id": 2,
+    "name": "Salesforce Certified Platform Developer I",
+    "issuer": "Salesforce",
+    "date": "Feb 2023",
+    "credentialId": "SF-DEV-I-2023-002",
+    "description": "Foundation certification validating knowledge of building custom applications on the Salesforce Platform using Apex and Visualforce.",
+    "skills": ["Apex", "Visualforce", "SOQL", "SOSL"]
+  },
+  {
+    "id": 3,
+    "name": "Salesforce Certified Platform App Builder",
+    "issuer": "Salesforce",
+    "date": "Mar 2023",
+    "credentialId": "SF-APP-BUILDER-2023-003",
+    "description": "Certification validating skills in designing, building, and implementing custom applications using declarative capabilities.",
+    "skills": ["Process Automation", "Data Modeling", "User Interface", "Business Logic"]
+  },
+  {
+    "id": 4,
+    "name": "Salesforce Certified Associate",
+    "issuer": "Salesforce",
+    "date": "May 2023",
+    "credentialId": "SF-ASSOCIATE-2023-004",
+    "description": "Entry-level certification demonstrating understanding of Salesforce fundamentals and cloud concepts.",
+    "skills": ["Salesforce Basics", "Cloud Computing", "CRM Concepts"]
+  },
+  {
+    "id": 5,
+    "name": "Salesforce Certified AI Associate",
+    "issuer": "Salesforce",
+    "date": "Feb 2024",
+    "credentialId": "SF-AI-ASSOCIATE-2024-005",
+    "description": "Certification demonstrating knowledge of AI capabilities within the Salesforce ecosystem.",
+    "skills": ["AI Tools", "Data Analysis", "Salesforce Einstein"]
+  },
+  {
+    "id": 6,
+    "name": "Salesforce Certified Marketing Cloud Administrator",
+    "issuer": "Salesforce",
+    "date": "Feb 2024",
+    "credentialId": "SF-MC-ADMIN-2024-006",
+    "description": "Certification validating skills in administering and managing Salesforce Marketing Cloud.",
+    "skills": ["Marketing Automation", "Email Marketing", "Campaign Management"]
+  },
+  {
+    "id": 7,
+    "name": "Salesforce Certified Sales Cloud Consultant",
+    "issuer": "Salesforce",
+    "date": "Sep 2024",
+    "credentialId": "SF-SALES-CONSULTANT-2024-007",
+    "description": "Certification demonstrating expertise in designing and implementing Sales Cloud solutions.",
+    "skills": ["Sales Processes", "Lead Management", "Opportunity Management"]
+  },
+  {
+    "id": 8,
+    "name": "Salesforce Certified AI Specialist",
+    "issuer": "Salesforce",
+    "date": "Dec 2024",
+    "credentialId": "SF-AI-SPECIALIST-2024-008",
+    "description": "Advanced certification in Salesforce AI technologies and implementation.",
+    "skills": ["AI Implementation", "Machine Learning", "Predictive Analytics"]
+  }
+]

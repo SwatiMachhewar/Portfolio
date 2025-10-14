@@ -1,0 +1,24 @@
+# TODO: Build Salesforce Developer Portfolio
+
+- [x] Execute setup commands to create Next.js app with TypeScript, Tailwind, ESLint
+- [x] Install additional packages: framer-motion, next-themes, lucide-react, @shadcn/ui
+- [x] Initialize shadcn/ui
+- [x] Create folder structure: /app, /components, /data, /styles, /public
+- [x] Implement layout.tsx with ThemeProvider, Navbar, Footer
+- [x] Create Navbar.tsx component
+- [x] Create Footer.tsx component
+- [x] Create ThemeToggle.tsx component
+- [x] Add data JSON files: experience.json, certifications.json, projects.json
+- [x] Build Home page (page.tsx) with avatar, summary, buttons
+- [x] Build Experience page (experience/page.tsx)
+- [x] Build Certifications page (certifications/page.tsx)
+- [x] Build Projects page (projects/page.tsx)
+- [x] Build Contact page (contact/page.tsx)
+- [ ] Create ExperienceCard.tsx component
+- [ ] Create CertificationBadge.tsx component
+- [ ] Create ProjectCard.tsx component
+- [x] Integrate Framer Motion for animations and transitions
+- [x] Implement contact form with Formspree
+- [x] Add SEO meta tags and Open Graph for LinkedIn previews
+- [x] Test locally with npm run dev
+- [x] Prepare for Vercel deployment

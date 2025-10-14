@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Salesforce CRM Integration Platform",
+    "description": "A comprehensive integration platform connecting Salesforce with multiple external systems including ERP, marketing automation, and customer support tools.",
+    "longDescription": "Developed a robust integration platform that synchronizes data between Salesforce and various enterprise systems. Implemented real-time data sync, error handling, and monitoring dashboards.",
+    "technologies": ["Apex", "Lightning Web Components", "REST APIs", "Node.js", "MongoDB"],
+    "githubUrl": "https://github.com/swati-machhewar/salesforce-integration-platform",
+    "liveUrl": "https://salesforce-integration-demo.herokuapp.com",
+    "image": "/images/integration-platform.jpg",
+    "featured": true,
+    "category": "Integration"
+  },
+  {
+    "id": 2,
+    "title": "Lightning Web Component Library",
+    "description": "A reusable component library built with Lightning Web Components for common UI patterns in Salesforce applications.",
+    "longDescription": "Created a comprehensive library of reusable Lightning Web Components following Salesforce design system guidelines. Components include data tables, forms, modals, and navigation elements.",
+    "technologies": ["Lightning Web Components", "JavaScript", "HTML", "CSS", "Jest"],
+    "githubUrl": "https://github.com/swati-machhewar/lwc-component-library",
+    "liveUrl": null,
+    "image": "/images/lwc-library.jpg",
+    "featured": true,
+    "category": "UI/UX"
+  },
+  {
+    "id": 3,
+    "title": "Apex Testing Framework",
+    "description": "A comprehensive testing framework for Apex classes with utilities for data creation, mocking, and assertion helpers.",
+    "longDescription": "Built a testing framework that simplifies unit testing in Salesforce. Includes utilities for creating test data, mocking external calls, and providing assertion helpers for common scenarios.",
+    "technologies": ["Apex", "SOQL", "SOSL", "Test Classes"],
+    "githubUrl": "https://github.com/swati-machhewar/apex-testing-framework",
+    "liveUrl": null,
+    "image": "/images/apex-testing.jpg",
+    "featured": false,
+    "category": "Testing"
+  },
+  {
+    "id": 4,
+    "title": "Salesforce Mobile App",
+    "description": "A mobile application built with Salesforce Mobile SDK for field service technicians.",
+    "longDescription": "Developed a mobile app using Salesforce Mobile SDK that allows field service technicians to access customer information, update work orders, and capture photos on-site.",
+    "technologies": ["Salesforce Mobile SDK", "React Native", "Apex REST APIs"],
+    "githubUrl": "https://github.com/swati-machhewar/salesforce-mobile-app",
+    "liveUrl": null,
+    "image": "/images/mobile-app.jpg",
+    "featured": true,
+    "category": "Mobile"
+  },
+  {
+    "id": 5,
+    "title": "Data Migration Tool",
+    "description": "A custom tool for migrating data from legacy systems to Salesforce with validation and error reporting.",
+    "longDescription": "Created a data migration tool that handles complex data transformations, validates data integrity, and provides detailed error reports for troubleshooting migration issues.",
+    "technologies": ["Apex", "Data Loader", "Python", "Pandas"],
+    "githubUrl": "https://github.com/swati-machhewar/data-migration-tool",
+    "liveUrl": null,
+    "image": "/images/data-migration.jpg",
+    "featured": false,
+    "category": "Data"
+  },
+  {
+    "id": 6,
+    "title": "Salesforce Analytics Dashboard",
+    "description": "Custom analytics dashboard with advanced reporting and visualization capabilities.",
+    "longDescription": "Built a custom analytics dashboard using Lightning components and Apex that provides advanced reporting capabilities beyond standard Salesforce reports and dashboards.",
+    "technologies": ["Lightning Web Components", "Apex", "Chart.js", "SOQL"],
+    "githubUrl": "https://github.com/swati-machhewar/analytics-dashboard",
+    "liveUrl": null,
+    "image": "/images/analytics-dashboard.jpg",
+    "featured": false,
+    "category": "Analytics"
+  }
+]
