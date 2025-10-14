@@ -29,8 +29,7 @@ export default function Home() {
         </p>
 
         <p className="text-lg text-foreground/80 max-w-3xl mx-auto mb-8 leading-relaxed">
-          Passionate Salesforce developer with 5+ years of experience building scalable solutions
-          on the Salesforce platform. Expertise in Apex, Lightning Web Components, and enterprise integrations.
+          I am a Salesforce Certified Developer with 4 years of IT experience, including over 3.5 years in Salesforce development and administration. My expertise spans Apex, Triggers, Lightning Web Components (LWC), Flows, CPQ, Field Service Lightning (FSL), and the Salesforce Service Cloud. I have hands-on experience working with Sales Cloud, Service Cloud, and Experience Cloud implementations, with a strong focus on Salesforce configuration, security, automation, and custom development. I am passionate about delivering scalable, efficient CRM solutions and excel at collaborating with cross-functional teams to achieve impactful business outcomes.
         </p>
 
         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-12">
