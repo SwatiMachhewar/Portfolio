@@ -188,6 +188,7 @@ git push origin main
 
 ## 📞 Contact
 
-Swati Machhewar - [Your Email]
+Swati Machhewar - 07swati98@gmail.com 
 
 Project Link: [https://github.com/your-username/swati-portfolio](https://github.com/your-username/swati-portfolio)
+
