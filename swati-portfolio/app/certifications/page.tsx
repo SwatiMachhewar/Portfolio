@@ -10,6 +10,7 @@ interface CertificationItem {
   issuer: string;
   date: string;
   credentialId: string;
+  linkedinUrl: string;
   description: string;
   skills: string[];
 }
@@ -83,7 +84,7 @@ export default function Certifications() {
 
             <div className="mt-4 pt-4 border-t">
               <a
-                href={`https://trailhead.salesforce.com/credentials/${cert.credentialId}`}
+                href={cert.linkedinUrl}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center text-sm text-primary hover:text-primary/80 transition-colors"

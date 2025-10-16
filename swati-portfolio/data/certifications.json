@@ -4,7 +4,8 @@
     "name": "Salesforce Certified Administrator (SCA)",
     "issuer": "Salesforce",
     "date": "Aug 2022",
-    "credentialId": "SF-ADMIN-2022-001",
+    "credentialId": "2495597",
+    "linkedinUrl": "https://www.linkedin.com/posts/swati-machhewar-38703713b_salesforcecertified-salesforceadmin-cognizant-activity-6965225473622626305-ScA6?utm_source=share&utm_medium=member_desktop&rcm=ACoAACH_lFcBaJMf3GNJJ7Lyd3c5nw6feoXUKHg",
     "description": "Certification demonstrating ability to configure and manage Salesforce applications, user management, and security settings.",
     "skills": ["Salesforce Setup", "User Management", "Security", "Data Management"]
   },
@@ -13,7 +14,8 @@
     "name": "Salesforce Certified Platform Developer I",
     "issuer": "Salesforce",
     "date": "Feb 2023",
-    "credentialId": "SF-DEV-I-2023-002",
+    "credentialId": "3034661",
+    "linkedinUrl": "https://www.linkedin.com/posts/swati-machhewar-38703713b_salesforce-developer-salesforceplatformdeveloper-activity-7034422305690701824-utmi?utm_source=share&utm_medium=member_desktop&rcm=ACoAACH_lFcBaJMf3GNJJ7Lyd3c5nw6feoXUKHg",
     "description": "Foundation certification validating knowledge of building custom applications on the Salesforce Platform using Apex and Visualforce.",
     "skills": ["Apex", "Visualforce", "SOQL", "SOSL"]
   },
@@ -22,7 +24,8 @@
     "name": "Salesforce Certified Platform App Builder",
     "issuer": "Salesforce",
     "date": "Mar 2023",
-    "credentialId": "SF-APP-BUILDER-2023-003",
+    "credentialId": "3129530",
+    "linkedinUrl": "https://www.linkedin.com/posts/swati-machhewar-38703713b_salesforcecertified-platformappbuilder-salesforcedeveloper-activity-7045759317299392512-kbIc?utm_source=share&utm_medium=member_desktop&rcm=ACoAACH_lFcBaJMf3GNJJ7Lyd3c5nw6feoXUKHg",
     "description": "Certification validating skills in designing, building, and implementing custom applications using declarative capabilities.",
     "skills": ["Process Automation", "Data Modeling", "User Interface", "Business Logic"]
   },
@@ -31,7 +34,8 @@
     "name": "Salesforce Certified Associate",
     "issuer": "Salesforce",
     "date": "May 2023",
-    "credentialId": "SF-ASSOCIATE-2023-004",
+    "credentialId": "3363089",
+    "linkedinUrl": "https://www.linkedin.com/posts/swati-machhewar-38703713b_saleforce-salesforceassociate-activity-7059588225987657728-ctEp?utm_source=share&utm_medium=member_desktop&rcm=ACoAACH_lFcBaJMf3GNJJ7Lyd3c5nw6feoXUKHg",
     "description": "Entry-level certification demonstrating understanding of Salesforce fundamentals and cloud concepts.",
     "skills": ["Salesforce Basics", "Cloud Computing", "CRM Concepts"]
   },
@@ -40,7 +44,8 @@
     "name": "Salesforce Certified AI Associate",
     "issuer": "Salesforce",
     "date": "Feb 2024",
-    "credentialId": "SF-AI-ASSOCIATE-2024-005",
+    "credentialId": "4109110",
+    "linkedinUrl": "https://www.linkedin.com/posts/swati-machhewar-38703713b_salesforceai-cognizant-activity-7160865542042533888-JCeS?utm_source=share&utm_medium=member_desktop&rcm=ACoAACH_lFcBaJMf3GNJJ7Lyd3c5nw6feoXUKHg",
     "description": "Certification demonstrating knowledge of AI capabilities within the Salesforce ecosystem.",
     "skills": ["AI Tools", "Data Analysis", "Salesforce Einstein"]
   },
@@ -49,7 +54,8 @@
     "name": "Salesforce Certified Marketing Cloud Administrator",
     "issuer": "Salesforce",
     "date": "Feb 2024",
-    "credentialId": "SF-MC-ADMIN-2024-006",
+    "credentialId": "4118642",
+    "linkedinUrl": "https://www.linkedin.com/posts/swati-machhewar-38703713b_salesforce-certified-marketing-cloud-administrator-activity-7162365869740822528-X0AX?utm_source=share&utm_medium=member_desktop&rcm=ACoAACH_lFcBaJMf3GNJJ7Lyd3c5nw6feoXUKHg",
     "description": "Certification validating skills in administering and managing Salesforce Marketing Cloud.",
     "skills": ["Marketing Automation", "Email Marketing", "Campaign Management"]
   },
@@ -58,7 +64,8 @@
     "name": "Salesforce Certified Sales Cloud Consultant",
     "issuer": "Salesforce",
     "date": "Sep 2024",
-    "credentialId": "SF-SALES-CONSULTANT-2024-007",
+    "credentialId": "4882963",
+    "linkedinUrl": "https://www.linkedin.com/posts/swati-machhewar-38703713b_salesforce-salescloud-certified-activity-7273653853869260801-usi_?utm_source=share&utm_medium=member_desktop&rcm=ACoAACH_lFcBaJMf3GNJJ7Lyd3c5nw6feoXUKHg",
     "description": "Certification demonstrating expertise in designing and implementing Sales Cloud solutions.",
     "skills": ["Sales Processes", "Lead Management", "Opportunity Management"]
   },
@@ -67,7 +74,8 @@
     "name": "Salesforce Certified AI Specialist",
     "issuer": "Salesforce",
     "date": "Dec 2024",
-    "credentialId": "SF-AI-SPECIALIST-2024-008",
+    "credentialId": "5451252",
+    "linkedinUrl": "https://www.linkedin.com/posts/swati-machhewar-38703713b_salesforce-aispecialist-certified-activity-7273654676540059648-z9qd?utm_source=share&utm_medium=member_desktop&rcm=ACoAACH_lFcBaJMf3GNJJ7Lyd3c5nw6feoXUKHg",
     "description": "Advanced certification in Salesforce AI technologies and implementation.",
     "skills": ["AI Implementation", "Machine Learning", "Predictive Analytics"]
   }
